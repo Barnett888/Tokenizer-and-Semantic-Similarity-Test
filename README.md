@@ -7,7 +7,7 @@ A group project to implement tokenizer and run LLMs to perform STS
 
 ### Output file description
 
-#@ Task2: Semantic Similarity Test (STS) 
+## Task2: Semantic Similarity Test (STS) 
 
 ### How to run code
 
