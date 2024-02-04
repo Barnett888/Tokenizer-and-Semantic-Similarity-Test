@@ -73,10 +73,10 @@ OUTPUT for each group as txt file
 ## Authors
 
 Xiao Yang: 
-coded all STS model scipts; wrote report for USE, BERT, RoBERTa section; editted task 1, 2 report; created github repo, readme.
+coded all STS model scipts; wrote report for USE, BERT, RoBERTa, result section; editted task 1, 2 report; created github repo, readme.
 
 Mingze Li:
 coded all task 1 scripts; wrote task 1 section of report.
 
 Sara Haroon: 
-tested task 2 model scripts; ran pearl to examine pearson coefficents; wrote report for SBERT, DistilBERT, task2 result section. 
+tested task 2 model scripts; ran pearl to collect pearson coefficents; wrote report for SBERT, DistilBERT, result table. 
