@@ -62,10 +62,11 @@ Use the test data STS Core (English Monolingual subtask) - test data with gold l
 The evaluation score to report is the Pearson correlation between the score obtained by your model and the expected solution. The expected solution scores are numeric values between and 5 (from low similarity to high similarity).
 
 ### How to run code
+run the pearl script to the output.zip, which contains all groups' scores. 
 
 ### Output file description
 
-
+OUTPUT for each group as txt file
 
 
 
