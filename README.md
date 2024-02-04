@@ -26,10 +26,27 @@ g) Compute all the pairs of two consecutive words (bigrams) (excluding stopwords
 
 ### How to run code
 
+To run this python notebook, please install python and python library spacy, nltk, collection,and en_core_web_sm for spacy.
+Need to download the dataset and stopword.txt file. Please modify the path in the first two chunck. Need to make the full_contract_txt folder and stopword.txt file's path the same in the code. The dataset and stopword.txt are available at:
+
+https://zenodo.org/records/4595826#.YyXT6HbMI2w
+https://www.site.uottawa.ca/~diana/csi5180/StopWords
 
 ### Output file description
+This package contains a python notebook file and the output of the notebook.The notebook will tokenize text data, build a corpus, and get statistics from the corpus.
 
+The notebook:
+NLP_A1_Q1_(1)_ipynb_bin.ipynb
 
+The output of the notebook:
+output.txt
+token.txt
+
+The output for specific questions:
+1_a.txt
+1_c.txt
+1_f.txt
+1_g.txt
 
 
 ## Task2: Semantic Similarity Test (STS), Evaluation of pre-trained sentence embedding models 
